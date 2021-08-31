@@ -8,7 +8,7 @@ images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Nots on software, cinema and the arts
+subtitle: Notes on software, literature and cinema
 text_align_left: false
 title: Jasdeep Singh 
 type: home
