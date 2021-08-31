@@ -4,24 +4,20 @@ categories:
 - Website
 - Farmers Protest
 - Newsletter
-date: "2019-07-02"
+date: "2021-02-02"
 draft: false
 excerpt: Trolley Times is a newsletter of the Indian Farmers protest
 featured: true
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://allisonhorst.github.io/palmerpenguins/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/allisonhorst/palmerpenguins/
+  url: https://trolleytimes.com/
 - icon: newspaper
   icon_pack: far
   name: Blog post
-  url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
+  url: https://trolleytimes.com/
 subtitle: ""
 tags:
 - wordpress-site

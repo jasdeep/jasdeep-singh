@@ -13,17 +13,13 @@ links:
   icon_pack: fas
   name: website
   url: https://kirrt.org/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
 subtitle: A website
 tags:
 - wordpress-site
 title: Kirrt
 ---
 
-![Kirrt Logo](kirrt-logo.png)
+![Kirrt Logo](kirrt-logo.jpg)
 
 ## [Kirrt](https://kirrt.org) is an online gallery, showcasing the works of Artists and Artisans of the Punjab.
 
