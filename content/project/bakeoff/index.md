@@ -1,66 +1,36 @@
 ---
-author: Eric Anderson
+author: Jasdeep Singh
 categories:
-- Theme Features
-- R
-- package
+- Digital Humanities
+- Website
+- Photography
 date: "2019-07-01"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: Kirrt is an online gallery, showcasing the works of Artists and Artisans of the Punjab.
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://kirrt.org/
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+subtitle: A website
 tags:
-- hugo-site
-title: Bakeoff
+- wordpress-site
+title: Kirrt
 ---
 
-![Formspree Logo](formspree-logo.png)
+![Kirrt Logo](kirrt-logo.png)
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+## [Kirrt](https://kirrt.org) is an online gallery, showcasing the works of Artists and Artisans of the Punjab.
 
 ---
 
-### Functional Form
+### About
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+Kirrt (ਕਿਰਤ) is a Punjabi word with roots in Sanskrit word Krit or Kriti (कृत). It means manufacturing, making and creation. In Punjabi, the word kirrt carries the same meaning, but with additional connotation of kirrt as labour, toil. In Guru Nanak’s teachings hathiN kirrt karna (to work with your own hands) is considered honourable, virtuous and essential for being a gurmukh. Further, kirrt karna te wandd chhakna (to work and share the produce) is one of the core principles of not only Sikh faith but multi-religious Punjabi community.
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+In January 2018, we had the honour to meet with Amarjit Chandan and listened him read his poems in public. Every time he read his poem ਪੋਥੀ (The Book), he lamented the absence of celebration of the kirti and his craft in Punjabi literature and arts. Taking a cue from his concern, the Kirrt project was started by Gurdeep Singh Dhaliwal (writer, photographer) along with Navjeet Kaur (designer). Jasdeep Singh (translator, editor) and Satdeep Gill (writer, photographer) joined the collective as contributors later on.The Kirrt logo is designed by award-winning filmmaker Gurvinder Singh.We document the stories of kirrtis — artisans and kirrts — their artworks.

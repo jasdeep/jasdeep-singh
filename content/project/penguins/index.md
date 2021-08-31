@@ -1,14 +1,12 @@
 ---
-author: Eric Anderson
+author: Jasdeep Singh
 categories:
-- Theme Features
-- R
-- package
+- Website
+- Farmers Protest
+- Newsletter
 date: "2019-07-02"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: Trolley Times is a newsletter of the Indian Farmers protest
 featured: true
 layout: single-sidebar
 links:
@@ -26,44 +24,18 @@ links:
   url: https://education.rstudio.com/blog/2020/07/palmerpenguins-cran/
 subtitle: ""
 tags:
-- hugo-site
-title: Palmer Penguins
+- wordpress-site
+title: Trolley Times
 ---
 
-### “Grid is the very first CSS module created specifically to solve the layout problems we've all been hacking our way around for as long as we've been making websites.”
-
-*— [Chris House, A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/)* [^1]
-
----
-
-Since I began building websites in Y2K, I've lost count how many times the phrase "...there's got to be a better way to do this" has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid `TABLE`.
-
-Well, technology sure has come a long way since slicing up images to match the table-based layout that was just created in Dreamweaver. You'd be surprised (or maybe you wouldn't) how challenging the standard header, content, sidebar, footer layout could be to actually get right.
-
-{{< figure src="css-grid-cover.png" alt="Traditional right sidebar layout" caption="A visual example of the traditional right sidebar layout" >}}
+### Trolley Times is a newsletter brought out by like minded people – writers, artists, activists in support of the Kisan Morcha. It is not the official mouthpiece of the Sanyukt Kisan Morcha.
 
 ---
 
-### <dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
+Over 95,000 trollies are lined up in the crack of winter at Delhi borders, protesting over the farm bills. In this newsletter, we are trying to bring out protesters’ stories to them while they are camped out at Delhi borders. Our intent, without malice and an ulterior motive, is to simply represent peoples’ voices. In order to do so, we are reaching out to different writers and artists to seek their contributions. We are aware that partisan publishing representation can create rifts in the movement. Our team works round the clock to choose write ups that look beyond such differences and commit to the progress of current movement that is exemplary because of the unity of farmers, labourers and other sections.The newsletter is made to clarify the real news in the midst of fake news, printed in Punjabi and Hindi, this four-page humble beginning is written with hope and optimism. On the first page we will have briefs on the direction and the state of the morcha. Rest of the pages will contain writings, pictures and artworks by contributors.
 
-A proper grid is what we always wanted, no ... _needed_ to build websites with a solid, unbreakable structure. And that's why I used it in this theme. I call this feature a "scaffold" because none of the _content_ is laid out on this grid. Only the main _structure_: consisting of the `header`, `footer`, `main`, `aside`, and `footer`. As you can tell by this quote from the [W3C](https://www.w3.org/TR/css-grid-1/) on the candidate recommendation itself, Grid is the perfect tool for the job:
+Trolley Times is inspired by the historic mobilisation and able leadership of all the farmers and farmworker organizations. The morcha has provided vigour to the farmers and farmworkers of not only the Punjab-Haryana region but all over India. On the one hand, the organizations have empowered and organized people to create the mass politicalawakening, on the other hand, the leaders of the organizations have pressurised the ruling and opposition political parties to speak the language of people’s welfare. It has brought hope to well wishers of solidarities and welfarist policies all over the world. The organizations’ leadership has worked resolutely to tread the ideological differences between themselves and bring this united movement to a point where its ultimate conclusion is victory.
 
-> ##### CSS Grid Layout Module
->
-> This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.
->
-> — _W3C_
+Initial Team: Navkiran Natt, Jassi Sangha, Surmeet Maavi, Gurdeep Dhaliwal, Ajaypal Natt, Jasdeep Singh, Narinder Bhinder
 
-CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:
-
-```css
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, auto);
-}
-```
-
-#### What an amazing time to be a web developer. Anyway, I hope you enjoy this "feature" that you'll probably never notice or even see. Maybe that's the best part of a good user interface – the hidden stuff that just works.
-
-[^1]: The original article cited here is now updated and maintained by the staff over at CSS-Tricks. Bookmark their version if you want to dive in and learn about CSS Grid: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+Current Team: Navkiran Natt, Gurdeep Dhaliwal, Ajaypal Natt, Jasdeep Singh, Mukesh Kulriya
