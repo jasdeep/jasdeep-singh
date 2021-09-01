@@ -9,6 +9,11 @@ draft: false
 excerpt: Parchanve is a weblog of translated Punjabi poetry.
 layout: single
 subtitle: A weblog of Punjabi Poetry, Prose and Fiction in translation
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://parchanve.wordpress.com/
 tags:
 - wordpress-site
 title: Parchanve

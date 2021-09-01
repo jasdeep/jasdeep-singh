@@ -6,6 +6,7 @@ homepage = "https://hugo-apero.netlify.app"
 tags = ["blog", "personal", "portfolio", "responsive", "customizable"]
 features = ["blog", "projects", "talks", "events", "collections", "contact form"]
 min_version = "0.79.0"
+show_sidebar_adunit=false
 
 # If the theme has a single author
 [author]

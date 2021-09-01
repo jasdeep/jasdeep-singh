@@ -5,7 +5,7 @@ action_type: text
 description: Jasdeep Singh is a software engineer, film writer and translator based in Mohali, Punjab.
 image_left: true
 images:
-- img/jasdeep.jpg
+- img/jasdeep-552x600.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Notes on software, literature and cinema
