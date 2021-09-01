@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/confabulations.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "jasdeep"
 
@@ -102,14 +102,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/jasdeep"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
@@ -127,30 +119,20 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Writings"
+    title = "Writings"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "Works"
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Interviews"
+    title = "Interviews"
     url = "/talk/"
     weight = 4
-  [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
-    weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
 
   # Configure footer
   [[menu.footer]]
