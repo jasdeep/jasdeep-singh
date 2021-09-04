@@ -8,9 +8,9 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
-    text_link_url: /blog/
-description: "A digital garden of published and unpublished writings and translations"
-layout: list-sidebar
+    text_link_url: /writing/
+description: "Collection of essays and translations"
+layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
