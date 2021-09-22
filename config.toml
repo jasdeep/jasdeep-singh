@@ -26,9 +26,9 @@ defaultContentLanguage = 'en'
     weight = 2
 
   [languages.pnb]
-      languageName = 'Westren Punjabi'
-      languagedirection = 'rtl'
-      weight = 3
+    languageName = 'Westren Punjabi'
+    languagedirection = 'rtl'
+    weight = 3
 
 
 [markup]
