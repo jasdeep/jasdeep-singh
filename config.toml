@@ -46,11 +46,11 @@ defaultContentLanguage = 'en'
 
 [params]
   orgName = "Jasdeep Singh"
-  orgLocal = "Anywhere"
+  orgLocal = "Panjab"
   description = "Software Engineer, Film Writer, Translator"
   favicon = "/img/favicon.ico"
   logo = "/img/confabulations-cropped-removebg.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["writing", "project", "interview"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -136,11 +136,6 @@ defaultContentLanguage = 'en'
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Garden"
-    title = "Digital Garden"
-    url = "/garden/"
-    weight = 2
-  [[menu.header]]
     name = "Writings"
     title = "Writings"
     url = "/writing/"
@@ -149,12 +144,12 @@ defaultContentLanguage = 'en'
     name = "Works"
     title = "Projects"
     url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Interviews"
     title = "Interviews"
     url = "/interview/"
-    weight = 4
+    weight = 5
 
   # Configure footer
   [[menu.footer]]
@@ -162,11 +157,6 @@ defaultContentLanguage = 'en'
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
