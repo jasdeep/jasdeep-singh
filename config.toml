@@ -121,7 +121,7 @@ defaultContentLanguage = 'en'
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "/writing/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -153,9 +153,9 @@ defaultContentLanguage = 'en'
 
   # Configure footer
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
+    name = "Colophon"
+    title = "Colophon"
+    url = "/colophon/"
     weight = 1
 
 # see https://gohugo.io/about/hugo-and-gdpr/
