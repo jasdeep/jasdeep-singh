@@ -137,3 +137,5 @@ title: Films of East Punjab
 ਈ ਮੇਲ ਪਤੇ: kuldipjnu@gmail.com, jasdeep.jogewala@gmail.com
 
 *ਮੂਲ ਲੇਖ ਲਹੌਰੌਂ ਛਪਦੇ ਸਲਾਨਾ ਰਸਾਲੇ ਬਾਰਾਂਮਾਹ ਦੇ ਪਹਿਲੇ ਅੰਕ (ਵਰ੍ਹਾ 2019) ਵਿਚ ਛਪਿਆ ਸੀ। ਇਸ ਰਸਾਲੇ ਦੇ ਸੰਪਾਦਕ ਅਮਰਜੀਤ ਚੰਦਨ ਅਤੇ ਜੁਬੈਰ ਅਹਿਮਦ ਹਨ। ਮਈ 2019 ਵਿਚ ਇਸ ਵਿਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।*
+
+[PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019.pdf)
