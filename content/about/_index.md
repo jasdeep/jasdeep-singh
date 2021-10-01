@@ -2,7 +2,7 @@
 cascade:
   headless: true
 description: |
-  Personal website of Jasdeep Singh.
+  Jasdeep Singh's personal website.
 show_header: true
 sidebar_left: false
 title: About
