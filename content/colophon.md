@@ -11,6 +11,8 @@ The code resides at [GitHub](https://github.com/jasdeep/jasdeep-singh) and the w
 
 The site logo is from [John Berger](https://en.wikipedia.org/wiki/John_Berger)'s illustrations for his book [Confabulations](https://www.itsnicethat.com/news/john-berger-impertinence-essay-confabulations-book-penguin-040117)
 
+The site uses [Mukta Mahee](https://fonts.google.com/specimen/Mukta+Mahee) font designed by [EkType](https://ektype.in/)
+
 [Writings](/writing/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 <center>

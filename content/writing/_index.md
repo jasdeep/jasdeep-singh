@@ -1,7 +1,7 @@
 ---
-author: Jasdeep Singh @jasdeep
+author: Jasdeep Singh
 cascade:
-  author: Jasdeep Singh @jasdeep
+  author: Jasdeep Singh
   show_author_byline: true
   show_comments: true
   show_post_date: true
@@ -15,7 +15,7 @@ show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  author: Jasdeep Singh @jasdeep
+  author: Jasdeep Singh
   description: "A digital garden of published and unpublished writings and translations"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS

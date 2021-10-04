@@ -1,6 +1,6 @@
 ---
 title: "Jodhpur Di Hadd"
-author: "Jasdeep Singh"
+author: "Ali Akbar Natiq & Jasdeep Singh"
 date: "03/09/2021"
 categories:
 - Translation

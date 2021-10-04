@@ -151,8 +151,65 @@
        url('#{$font-path}/Atkinson-Hyperlegible-BoldItalic-102.woff2') format('woff');
 }
 
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 200;
+  src: local(''),
+       url('../fonts/MuktaMahee-ExtraLight.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-ExtraLight.woff2') format('woff');
+}
 
-// create custom font classes 
+
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/MuktaMahee-Light.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-Light.woff2') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/MuktaMahee-Regular.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-Regular.woff2') format('woff');
+}
+
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 500;
+  src: local(''),
+       url('../fonts/MuktaMahee-Medium.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-Medium.woff2') format('woff');
+}
+
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 600;
+  src: local(''),
+       url('../fonts/MuktaMahee-SemiBold.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-SemiBold.woff2') format('woff');
+}
+
+
+@font-face {
+  font-family: 'Mukta Mahee';
+  font-style: normal;
+  font-weight: 700;
+  src: local(''),
+       url('../fonts/MuktaMahee-Bold.woff2') format('woff2'),
+       url('../fonts/MuktaMahee-Bold.woff2') format('woff');
+}
+
+
+// create custom font classes
 .custom-text-font { font-family: $customtextFontFamily; }
 .custom-heading-font { font-family: $customheadingFontFamily; }
 
