@@ -6,7 +6,7 @@ categories:
 - Archive
 date: "2019-07-01"
 draft: false
-excerpt: Farmers Movement Archive is a collection of different kinds of data related to the on-going Indian Farmers Protests 2020-2021 against three farm laws which were passed by the Parliament of India in September 2020.
+excerpt: Contributor at Farmer Movement Archive 
 layout: single
 links:
 - icon: door-open

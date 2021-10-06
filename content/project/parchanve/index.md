@@ -6,7 +6,7 @@ categories:
 - Translation
 date: "2005-08-16"
 draft: false
-excerpt: Parchanve is a weblog of translated Punjabi poetry.
+excerpt: Curator, Translator for weblog on Punjabi Poetry, Prose and Fiction in translation
 layout: single
 subtitle: A weblog of Punjabi Poetry, Prose and Fiction in translation
 links:

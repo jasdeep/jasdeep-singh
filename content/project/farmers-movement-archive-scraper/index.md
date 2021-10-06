@@ -4,7 +4,7 @@ categories:
 - Software
 date: "2021-02-02"
 draft: false
-excerpt: Python code for scraping Punjabi Tribune webise
+excerpt: Code for scrapping Punjabi Tribune website 
 featured: true
 layout: single
 links:

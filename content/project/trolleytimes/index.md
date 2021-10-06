@@ -6,7 +6,7 @@ categories:
 - Newsletter
 date: "2021-02-02"
 draft: false
-excerpt: Trolley Times is a newsletter of the Indian Farmers protest
+excerpt: Editor for the newsletter of the Indian Farmers protest
 featured: true
 layout: single
 links:

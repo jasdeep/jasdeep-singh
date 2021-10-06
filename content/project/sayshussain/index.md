@@ -6,7 +6,7 @@ categories:
 - Poetry
 date: "2020-07-01"
 draft: false
-excerpt: Says Hussain is weekly reading group in which we read poetry of sixteenth century Punjabi poet Madho Lal Shah Hussain.
+excerpt: Moderator for poetry reading group
 layout: single
 links:
 - icon: door-open

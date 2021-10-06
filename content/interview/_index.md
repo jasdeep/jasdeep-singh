@@ -1,5 +1,4 @@
 ---
-author: Jasdeep Singh
 cascade:
   author: Jasdeep Singh
   show_author_byline: true
@@ -11,14 +10,14 @@ cascade:
     text_link_label: View recent interviews
     text_link_url: /interview/
 description: |
-  A list for your interviews and podcasts I have appeared in.
+  A list of interviews and podcasts I have appeared in
 layout: list
-show_author_byline: true
+show_author_byline: false
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: Jasdeep Singh 
+  author: Jasdeep Singh
   description: "List of interviews and podcasts"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS

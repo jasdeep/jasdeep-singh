@@ -6,7 +6,7 @@ categories:
 - Photography
 date: "2019-07-01"
 draft: false
-excerpt: Kirrt is an online gallery, showcasing the works of Artists and Artisans of the Punjab.
+excerpt: Digital Curator, Editor, Translator
 layout: single
 links:
 - icon: door-open

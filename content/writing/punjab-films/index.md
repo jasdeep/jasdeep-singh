@@ -5,7 +5,7 @@ categories:
 - Essay
 date: "2018-09-21"
 draft: false
-excerpt:
+excerpt: Essay on tracing history of films in Indian Punjab 
 layout: single
 subtitle: Films of East Punjab
 title: Films of East Punjab

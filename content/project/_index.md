@@ -1,5 +1,4 @@
 ---
-author: Jasdeep Singh
 cascade:
   show_author_byline: true
   show_comments: false
@@ -8,7 +7,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: Projects I have worked on
+description: Contributions sto projects in literature, cinema, translation and software   
 layout: list-grid
 show_author_byline: true
 show_post_date: false
