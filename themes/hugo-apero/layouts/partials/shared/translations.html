@@ -1,8 +1,0 @@
-{{ if .IsTranslated }}
-    {{ i18n "translations" }}
-    <p class="f5 db mv0 ttu">
-    {{ range .Translations }}
-      <a class="ttu" href="{{ .Permalink }}">{{ .Lang }}</a>
-    {{ end }}
-    </p>
-{{ end }}

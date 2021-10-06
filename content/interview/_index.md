@@ -1,7 +1,7 @@
 ---
-author: Jasdeep Singh @jasdeep
+author: Jasdeep Singh
 cascade:
-  author: Jasdeep Singh @jasdeep
+  author: Jasdeep Singh
   show_author_byline: true
   show_comments: false
   show_post_date: true
@@ -9,20 +9,20 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent interviews
-    text_link_url: /talk/
+    text_link_url: /interview/
 description: |
-  A list for your interviews and podcasts I have appeared in. 
+  A list for your interviews and podcasts I have appeared in.
 layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: Jasdeep Singh @jasdeep
+  author: Jasdeep Singh 
   description: "List of interviews and podcasts"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_url: /interview/index.xml
   title: Interviews and Podcasts
 title: Interviews and Podcasts
 ---

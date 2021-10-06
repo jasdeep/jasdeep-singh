@@ -6,6 +6,6 @@ categories:
 - Translation
 - Short Story
 ---
-Punjabi Translation of an Urdu short story by Ali Akbar Natiq
+[Punjabi Translation](/pa/writing/jodhpur-di-hadd) of an Urdu short story by Ali Akbar Natiq
 
 *Published in Punjabi literary journal Wahga*

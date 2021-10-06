@@ -1,0 +1,6 @@
+[submodule "themes/hugo-apero"]
+	path = themes/hugo-apero
+	url = https://github.com/jasdeep/hugo-apero.git
+[submodule "themes/hugo-prose"]
+	path = themes/hugo-prose
+	url = https://github.com/jasdeep/hugo-prose.git

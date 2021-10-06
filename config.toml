@@ -19,14 +19,17 @@ defaultContentLanguage = 'en'
 [languages]
   [languages.en]
     languageName = 'English'
+    title = 'Read in English'
     weight = 1
 
   [languages.pa]
     languageName = 'Punjabi'
+    title = 'ਪੰਜਾਬੀ ਵਿੱਚ ਪੜ੍ਹੋ'
     weight = 2
 
   [languages.pnb]
     languageName = 'Westren Punjabi'
+    title = 'پنجابی'
     languagedirection = 'rtl'
     weight = 3
 
@@ -52,6 +55,7 @@ defaultContentLanguage = 'en'
   logo = "/img/confabulations-cropped-removebg.png"
   mainSections = ["writing", "project", "interview"]
   navallcaps = true
+  pageFeatures = ["+sidenotes"]
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
@@ -65,7 +69,7 @@ defaultContentLanguage = 'en'
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "poppy"
+  theme = "plum"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/

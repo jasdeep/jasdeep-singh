@@ -1,6 +1,8 @@
 ---
 title: "ਜੋਧਪੁਰ ਦੀ ਹੱਦ"
 author: "ਅਲੀ ਅਕਬਰ ਨਾਤਿਕ"
+show_author_byline: true
+show_post_date: true
 date: "03/09/2021"
 ---
 
