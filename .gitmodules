@@ -4,3 +4,10 @@
 [submodule "themes/hugo-prose"]
 	path = themes/hugo-prose
 	url = https://github.com/jasdeep/hugo-prose.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/jasdeep/hugo-PaperMod.git
+[submodule "themes/paperesque"]
+	path = themes/paperesque
+	url = https://github.com/capnfabs/paperesque
+	branch = mainline

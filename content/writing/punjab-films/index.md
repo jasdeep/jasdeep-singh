@@ -5,7 +5,7 @@ categories:
 - Essay
 date: "2018-09-21"
 draft: false
-excerpt: Essay on tracing history of films in Indian Punjab 
+excerpt: Essay on tracing history of films in Indian Punjab
 layout: single
 subtitle: Films of East Punjab
 title: Films of East Punjab
@@ -92,5 +92,7 @@ Since 2015, there have been broadly four types of Punjabi films. The first type 
 These films tend to shy away from the harsh realities of life and feed on the pre-existing delusions and the biases of the audience. After a tumultuous journey of 20-25 years, it is certain that the Punjabi film industry has thrived. As for the serious and cerebral films, with the efforts of few mavericks and with changing times and needs of the audience will also be made.
 
 *Translated from Punjabi by Anuraj Singh Sibia*
+
+Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).
 
 *Punjabi original published in Baramah journal, Lahore (2020). Editors: Amarjeet Chandan, Zubair Ahmad*

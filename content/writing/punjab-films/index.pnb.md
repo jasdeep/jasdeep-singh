@@ -11,4 +11,6 @@ layout: single
 subtitle: Films of East Punjab
 title: Films of East Punjab
 ---
-[PDF]()
+{{< embed-pdf url="/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf" >}}
+
+Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).
