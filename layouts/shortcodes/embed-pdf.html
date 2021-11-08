@@ -1,7 +1,11 @@
 {{ $pdfWorkerJs := resources.Get "js/pdf-js/build/pdf.worker.js" }}
+{{ $pdfWorkerJsMap := resources.Get "js/pdf-js/build/pdf.worker.js.map" }}
 {{ $pdfJs := resources.Get "js/pdf-js/build/pdf.js" }}
+{{ $pdfJsMap := resources.Get "js/pdf-js/build/pdf.js.map" }}
 <script src="{{ $pdfJs.RelPermalink }}" type="text/javascript"></script>
+<script src="{{ $pdfJsMap.RelPermalink }}" type="text/javascript"></script>
 <script src="{{ $pdfWorkerJs.RelPermalink }}" type="text/javascript"></script>
+<script src="{{ $pdfWorkerJsMap.RelPermalink }}" type="text/javascript"></script>
 <style>
 #the-canvas {
   border: 1px solid black;
