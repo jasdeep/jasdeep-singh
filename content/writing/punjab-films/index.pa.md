@@ -141,5 +141,5 @@ title: Films of East Punjab
 
 *ਮੂਲ ਲੇਖ ਲਹੌਰੌਂ ਛਪਦੇ ਸਲਾਨਾ ਰਸਾਲੇ ਬਾਰਾਂਮਾਹ ਦੇ ਪਹਿਲੇ ਅੰਕ (ਵਰ੍ਹਾ 2019) ਵਿਚ ਛਪਿਆ ਸੀ। ਇਸ ਰਸਾਲੇ ਦੇ ਸੰਪਾਦਕ ਅਮਰਜੀਤ ਚੰਦਨ ਅਤੇ ਜੁਬੈਰ ਅਹਿਮਦ ਹਨ। ਮਈ 2019 ਵਿਚ ਇਸ ਵਿਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।*
 
-
+Read in [Gurmukhi Punjabi](/pa/writing/punjab-films/) or [Shahmukhi Punjabi](/pnb/writing/punjab-films/).  
 Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).

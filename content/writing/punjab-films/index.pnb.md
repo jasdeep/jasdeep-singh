@@ -13,4 +13,5 @@ title: Films of East Punjab
 ---
 {{< embed-pdf url="/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf" >}}
 
+Read in [Gurmukhi Punjabi](/pa/writing/punjab-films/) or [Shahmukhi Punjabi](/pnb/writing/punjab-films/).  
 Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).

@@ -93,6 +93,7 @@ These films tend to shy away from the harsh realities of life and feed on the pr
 
 *Translated from Punjabi by Anuraj Singh Sibia*
 
-Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).
-
 *Punjabi original published in Baramah journal, Lahore (2020). Editors: Amarjeet Chandan, Zubair Ahmad*
+
+Read in [Gurmukhi Punjabi](/pa/writing/punjab-films/) or [Shahmukhi Punjabi](/pnb/writing/punjab-films/).  
+Download the [Gurmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pa.pdf) or [Shahmukhi PDF](/files/KuldeepKaurJasdeepSingh_CharhdePunjabDianFilman_Baramah1_2019_pnb.pdf).

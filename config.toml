@@ -98,8 +98,8 @@ defaultContentLanguage = 'en'
     label = "comments :crystal_ball:"
 
   # Configuration of math rendering
-  [params.math]
-    renderer = "katex" # one of "mathjax" / "katex"
+  #[params.math]
+  #  renderer = "katex" # one of "mathjax" / "katex"
 
   # Social icons may appear on homepage and in site header or footer
   # Configure show/hide above - add as many as you like below
