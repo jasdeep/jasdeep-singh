@@ -19,20 +19,22 @@ defaultContentLanguage = 'en'
 [languages]
   [languages.en]
     languageName = 'English'
-    title = 'English'
+    title= 'Jasdeep Singh'
     weight = 1
+    languageTitle = 'English'
 
   [languages.pa]
     languageName = 'Punjabi'
-    title = 'ਪੰਜਾਬੀ'
+    title= 'ਜਸਦੀਪ ਸਿੰਘ'
     weight = 2
+    languageTitle = 'ਪੰਜਾਬੀ'
 
   [languages.pnb]
     languageName = 'Westren Punjabi'
-    title = 'پنجابی'
+    title= 'جسدیپ سنگھ'
     languagedirection = 'rtl'
     weight = 3
-
+    languageTitle = 'پنجابی'
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -52,7 +54,7 @@ defaultContentLanguage = 'en'
   orgLocal = "Panjab"
   description = "Software Engineer, Film Writer, Translator"
   favicon = "/img/favicon.ico"
-  logo = "/img/confabulations-cropped-removebg.png"
+  #logo = "/img/confabulations-cropped-removebg.png"
   mainSections = ["writing", "project", "interview"]
   navallcaps = true
   pageFeatures = ["+sidenotes"]
@@ -111,6 +113,19 @@ defaultContentLanguage = 'en'
       icon_pack = "fab"
       url       = "https://github.com/jasdeep"
   [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/jasdeep"
+
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=_Uc_NZYAAAAJ&hl=en"
+  [[params.social]]
+      icon      = "linkedin-in" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/jasdeep/"
+  [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.facebook.com/singhjasdeep"
@@ -118,10 +133,6 @@ defaultContentLanguage = 'en'
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.instagram.com/jasdeepsyng"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/jasdeep"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"

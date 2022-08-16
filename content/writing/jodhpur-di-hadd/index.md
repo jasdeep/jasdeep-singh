@@ -1,7 +1,7 @@
 ---
 title: "Jodhpur Di Hadd"
 author: "Ali Akbar Natiq & Jasdeep Singh"
-date: "03/09/2021"
+date: "2020-08-03"
 categories:
 - Translation
 - Short Story
