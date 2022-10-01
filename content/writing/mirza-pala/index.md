@@ -11,6 +11,8 @@ show_author_byline: true
 subtitle: Mirza seeks help from Hanuman and Krishna
 title: Qissa Mirza Sahiba Puadhi
 ---
+{{< figure src="featured.webp" >}}
+
 An essay on a Qissa Mirza Sahiba sung by Harpal Singh Pala of Manakpur Sharif, Mohali
 
 Read in [Gurmukhi Punjabi](/pa/writing/mirza-pala/) or [Shahmukhi Punjabi](/pnb/writing/mirza-pala/).

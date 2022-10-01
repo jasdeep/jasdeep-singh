@@ -10,6 +10,8 @@ layout: single
 subtitle: Review Essay of Jatinder Mauhar's film Qissa Panjab.
 title: Qissa Panjab - A tale of six rivers
 ---
+{{< figure src="featured.webp" >}}
+
 Review Essay of Jatinder Mauhar's film Qissa Panjab.
 
 Read in [Punjabi](/pa/writing/qissa-panjab/)

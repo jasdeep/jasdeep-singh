@@ -25,13 +25,13 @@ defaultContentLanguage = 'en'
 
   [languages.pa]
     languageName = 'Punjabi'
-    title= 'ਜਸਦੀਪ ਸਿੰਘ'
+    title= 'Jasdeep Singh'
     weight = 2
     languageTitle = 'ਪੰਜਾਬੀ'
 
   [languages.pnb]
     languageName = 'Westren Punjabi'
-    title= 'جسدیپ سنگھ'
+    title= 'Jasdeep Singh'
     languagedirection = 'rtl'
     weight = 3
     languageTitle = 'پنجابی'
