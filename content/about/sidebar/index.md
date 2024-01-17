@@ -1,12 +1,12 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Jasdeep Singh"
-role: "Engineer, Writer, Translator"
+role: "Tech worker, Writer, Translator"
 avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Programming
+- name: Technology
   url: https://github.com/jasdeep
 - name: Poetry
   url: https://parchanve.wordpress.com/

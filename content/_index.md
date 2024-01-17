@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a software engineer, film writer and translator based in Mohali, Punjab.
+description: I am a technology worker, film writer and translator based in Mohali, Punjab.
 image_left: true
 images:
-- img/jasdeep-552x600.jpg
+- img/jasdeep-profile.webp
 show_action_link: true
 show_social_links: true
-subtitle: Notes on software, literature and cinema
+subtitle: Notes on technology, literature and cinema
 text_align_left: false
 title: Jasdeep Singh
 type: home

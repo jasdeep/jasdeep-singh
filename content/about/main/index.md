@@ -15,7 +15,7 @@ intro: |
   Programming Languages-	Java, Python, R.  
 
   ### SUMMARY  
-  •	Software Engineer with extensive expertise in the design & development of enterprise applications. (14 Years)  
+  •	Software Engineer with extensive expertise in the design & development of enterprise applications. (15 Years)  
   •	Experience in research, dialogue writing, screenplay writing and subtitle making for Punjabi films (10 years)  
   •	Experience in literary translation between Punjabi and English (12 years)  
 

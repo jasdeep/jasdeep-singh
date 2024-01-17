@@ -52,7 +52,7 @@ defaultContentLanguage = 'en'
 [params]
   orgName = "Jasdeep Singh"
   orgLocal = "Panjab"
-  description = "Software Engineer, Film Writer, Translator"
+  description = "Technology worker, Film writer, Translator"
   favicon = "/img/favicon.ico"
   #logo = "/img/confabulations-cropped-removebg.png"
   mainSections = ["writing", "project", "interview"]
