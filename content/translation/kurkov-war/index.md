@@ -8,6 +8,6 @@ categories:
 - War
 ---
 {{< figure src="featured.webp" >}}
-[Punjabi Translation](/pa/writing/kurkov-war) of an essay on Russo-Ukrainian war by Andrey Kurkov
+[Punjabi Translation](/pa/translation/kurkov-war) of an essay on Russo-Ukrainian war by Andrey Kurkov
 
 *Published in newspaper Punjabi Tribune*

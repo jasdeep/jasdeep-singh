@@ -163,5 +163,5 @@ Ching".
 
 Original Source: “Jean-Luc Godard | What Is to Be Done? // British Sounds, by J.-L. Godard [DVG].” BLACKOUT ((Poetry & Politics)), 21 Oct. 2018, [my-blackout.com/2018/10/21/jean-luc-godard-what-is-to-be-done-british-sounds-by-j-l-godard-dvg/](my-blackout.com/2018/10/21/jean-luc-godard-what-is-to-be-done-british-sounds-by-j-l-godard-dvg/).
 
-*Read  [Punjabi Translation](/pa/writing/cine-manifesto-godard)*
+*Read  [Punjabi Translation](/pa/translation/cine-manifesto-godard)*
 ‌

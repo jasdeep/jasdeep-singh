@@ -144,5 +144,5 @@ to Kino-Eye Groups" (1926) ਦੇ ਹਵਾਲੇ ਤੋਂ
 ਮੂਲ਼ ਸਰੋਤ: “Jean-Luc Godard | What Is to Be Done? // British Sounds, by J.-L. Godard [DVG].” BLACKOUT ((Poetry & Politics)), BLACKOUT ((poetry & politics)), 21 Oct. 2018, my-blackout.com/2018/10/21/jean-luc-godard-what-is-to-be-done-british-sounds-by-j-l-godard-dvg/.
 
 
-*[ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ](/writing/cine-manifesto-godard) ਪੜੋ* 
+*[ਅੰਗਰੇਜ਼ੀ ਅਨੁਵਾਦ](/translation/cine-manifesto-godard) ਪੜੋ* 
 

@@ -8,6 +8,6 @@ categories:
 ---
 {{< figure src="featured.webp" >}}
 
-[Punjabi Translation](/pa/writing/jodhpur-di-hadd) of an Urdu short story by Ali Akbar Natiq
+[Punjabi Translation](/pa/translation/jodhpur-di-hadd) of an Urdu short story by Ali Akbar Natiq
 
 *Published in Punjabi literary journal Wahga*
