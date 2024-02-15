@@ -9,12 +9,10 @@ categories:
 ---
 {{< figure src="featured.webp" >}}
 
-[Punjabi Translation](/pa/writing/bitter-fruits) of a critical essay on legacy of agriculturalist MS Swaminathan by [Aditya Bahl]
-
+[Punjabi Translation](/pa/writing/bitter-fruits) of a critical essay on legacy of agriculturalist MS Swaminathan by [Aditya Bahl](https://adityabahl.com/)
 
 *Originally published in [New Left Sidecar blog](https://newleftreview.org/sidecar/posts/bitter-fruits) on 30 November 2023*
 
-{{< embed-pdf url="/files/AdityaBahl_BitterFruits_NLRSidecar_2023_en.pdf" >}}
 
 *[Punjabi Translation](/pa/writing/bitter-fruits) published in newspaper Nawan Zamana and Punjab Times USA in February 2024*
 
