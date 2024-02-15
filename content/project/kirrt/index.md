@@ -19,7 +19,7 @@ tags:
 title: Kirrt
 ---
 
-![Kirrt Logo](kirrt-logo.jpg)
+![Kirrt Logo](kirrt-logo.webp)
 
 ## [Kirrt](https://kirrt.org) is an online gallery, showcasing the works of Artists and Artisans of the Punjab.
 
