@@ -116,11 +116,14 @@ defaultContentLanguage = 'en'
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/jasdeep"
-
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=_Uc_NZYAAAAJ&hl=en"
+   [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://orcid.org/0000-0002-6899-4270"
   [[params.social]]
       icon      = "linkedin-in" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -156,15 +159,30 @@ defaultContentLanguage = 'en'
     url = "/writing/"
     weight = 3
   [[menu.header]]
+    name = "Translations"
+    title = "Translations"
+    url = "/translation/"
+    weight = 4
+  [[menu.header]]
+    name = "Notes"
+    title = "Notes"
+    url = "/note/"
+    weight = 5
+  [[menu.header]]
+    name = "Readings"
+    title = "Readings"
+    url = "/reading/"
+    weight = 5
+  [[menu.header]]
     name = "Works"
     title = "Projects"
     url = "/project/"
-    weight = 4
+    weight = 6
   [[menu.header]]
-    name = "Interviews"
-    title = "Interviews"
+    name = "Appearances"
+    title = "Appearances"
     url = "/interview/"
-    weight = 5
+    weight = 7
 
   # Configure footer
   [[menu.footer]]
