@@ -9,18 +9,11 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /writing/
-description: "Collection of essays and other writings"
+description: "Selected essays and other writings"
 layout: list
 show_author_byline: true
 show_post_date: true
 show_post_thumbnail: true
-sidebar:
-  author: Jasdeep Singh
-  description: "A digital garden of published and unpublished writings"
-  show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: Writings and Translations
 thumbnail_left: true
 title: Writings 
 ---

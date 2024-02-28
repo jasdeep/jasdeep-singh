@@ -135,7 +135,7 @@ defaultContentLanguage = 'en'
   [[params.social]]
       icon      = "instagram" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.instagram.com/jasdeepsyng"
+      url       = "https://www.instagram.com/jasdeepshamshersingh"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -169,9 +169,9 @@ defaultContentLanguage = 'en'
     url = "/note/"
     weight = 5
   [[menu.header]]
-    name = "Readings"
-    title = "Readings"
-    url = "/reading/"
+    name = "Talks"
+    title = "Talks"
+    url = "/talk/"
     weight = 5
   [[menu.header]]
     name = "Works"

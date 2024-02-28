@@ -9,18 +9,11 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View recent posts
     text_link_url: /readings/
-description: "Translations"
+description: "Selected translations of prose and poetry"
 layout: list
-show_author_byline: true
+show_author_byline: false
 show_post_date: true
 show_post_thumbnail: true
-sidebar:
-  author: Jasdeep Singh 
-  description: "Translations"
-  show_sidebar_adunit: true
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  title: Translations
 thumbnail_left: true
 title: Translations
 ---

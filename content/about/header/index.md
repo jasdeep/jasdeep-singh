@@ -15,6 +15,8 @@ I spend most of my time solving problems related to performance and security eng
 
 I curate [Kirrt project](https://kirrt.org), an online gallery that hosts stories and photographs of Punjabi labourers, artisans and artists and I was part of the farmers protest newsletter [Trolley Times](https://trolleytimes.com).
 
+[Say hello via email](mailto:jasdeep.jogewala@gmail.com)
+
 ‌
 
 ‌
