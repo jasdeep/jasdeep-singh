@@ -1,6 +1,7 @@
 ---
 title: "What is to be Done?"
 author: "Jean-Luc Godard"
+excerpt: Godard's manifesto on political films
 date: "2022-09-30"
 categories:
 - Translation

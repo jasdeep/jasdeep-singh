@@ -1,6 +1,7 @@
 ---
 title: "Bitter Fruits"
 author: "Aditya Bahl"
+excerpt: Punjabi translation of a critical essay on legacy of agriculturalist MS Swaminathan by Aditya Bahl
 date: "2024-02-12"
 categories:
 - Translation
