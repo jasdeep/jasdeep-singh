@@ -10,7 +10,7 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
+  name: youtube
   url: https://www.youtube.com/watch?v=8kUW6QYtv_U
 show_post_time: false
 subtitle: Interview with Sea7 Australia
