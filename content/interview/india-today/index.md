@@ -15,3 +15,5 @@ location: Online
 subtitle: India Today Interview
 title: Software engineer turned dialogue writer, Jasdeep Singh is working on Gurvinder Singh's latest film.
 ---
+
+{{< embed-pdf url="/files/JasdeepSingh_interview-Ofpigeons and poetry-India Today_2016.pdf" hidePaginator="true" >}}

@@ -16,3 +16,4 @@ show_post_time: false
 subtitle: Pages De Gauche Interview
 title: Farmer protest movement in India – The activist perspective from within
 ---
+{{< embed-pdf url="/files/JasdeepSingh_interview_Le mouvement paysan en Inde – Une perspective militante - Pages de ga_2020.pdf" hidePaginator="true" >}}
