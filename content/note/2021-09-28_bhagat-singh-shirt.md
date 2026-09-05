@@ -4,6 +4,7 @@ author: Amarjit Chandan
 date: Tue, 28 Sep 2021 03:41:03 +0000
 slug: 'bhagat-singh-shirt'
 draft: false
+excerpt: Poem by Amarjit Chandan
 categories: ['Amarjit Chandan', 'Amarjit Chandan', 'Authors', 'Bhagat Singh', 'freedom', 'Heritage', 'martyrdom', 'Photographers', 'Poetry', 'Punjabi', 'revolution']
 ---
 

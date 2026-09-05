@@ -2,13 +2,13 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: ਜਸਦੀਪ ਸਿੰਘ ਫ਼ਿਲਮਾਂ ਅਤੇ ਸਾਹਿਤ ਬਾਰੇ ਲਿਖਦਾ ਹੈ ਅਤੇ ਸੌਫ਼ਟਵੇਅਰ ਦਾ ਕਾਰੀਗਰ ਹੈ 
+description: ਲੇਖਕ, ਅਨੁਵਾਦਕ ਅਤੇ ਤਕਨਾਲੋਜੀ ਮਾਹਰ  
 image_left: true
 images:
-- ../img/jasdeep-552x600.jpg
+- ../img/jasdeep-profile.webp
 show_action_link: true
 show_social_links: true
-subtitle: ਸੌਫ਼ਟਵੇਅਰ, ਸਾਹਿਤ ਅਤੇ ਸਿਨੇਮਾ
+subtitle: ਸਾਹਿਤ, ਸਿਨੇਮਾ ਅਤੇ ਤਕਨਾਲੋਜੀ
 text_align_left: false
 title: ਜਸਦੀਪ ਸਿੰਘ  
 type: home
