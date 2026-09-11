@@ -13,8 +13,8 @@ description: "Selected notes & readings on literature, cinema and technology"
 layout: list
 show_author_byline: true
 show_post_date: true
-show_post_thumbnail: false
-thumbnail_left: false
+show_post_thumbnail: true
+thumbnail_left: true
 title: Notes & Readings
 ---
 
